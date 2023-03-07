@@ -1,0 +1,5 @@
+/Users/claramotondo/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.AssemblyReference.cache
+/Users/claramotondo/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claramotondo/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/claramotondo/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs
+/Users/claramotondo/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.CoreCompileInputs.cache

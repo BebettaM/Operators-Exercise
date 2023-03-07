@@ -1,10 +1,40 @@
-﻿namespace OperatorExercise
+﻿using System;
+
+namespace OperatorExercise
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-        }
+            var a = 17;
+            var b = 4;
+            var sum = a + b;
+            Console.WriteLine($"a + b = {sum}");
+
+            var diff = a - b;
+
+            Console.WriteLine($"a - b = {sum}");
+
+            Console.WriteLine($"a x b = {a * b}");
+
+            var quotient = a / b;
+            var remainder = a % b;
+
+            Console.WriteLine($"{a} / {b} is {quotient} remainder {remainder}");
+
+
+
+            // Exercise 2
+
+            Console.WriteLine("What is the radius of your circle?");
+
+            var radius = double.Parse(Console.ReadLine());
+
+            var area = Math.PI * Math.Pow(radius, 2);
+
+            Console.WriteLine($"The area of a circle with radius of {radius} is {area}");
+        }    
+        
+
     }
 }
